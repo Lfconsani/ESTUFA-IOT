@@ -1,0 +1,38 @@
+
+
+body{
+background-image: url(../site/img/leaves.png);
+background-repeat:no-repeat;
+background-position-y: 88px;
+}
+
+.header {
+    background-color: green;
+    color: white;
+    height: 100px;
+}
+  
+  
+.temperatura-card {
+    background-color: #ffa418;
+    border: #d84c1b;
+}
+  
+.umidade-card {
+    background-color: #bbdefa;
+    border: #3793d8;
+}
+  
+.luz-card {
+    background-color: #ffec38;
+    border: #ea9820;
+}
+  
+.control-btn {
+    width: 100%;
+}
+
+.control-btn.desligado {
+    background-color: #fe9f9e;
+    border: 1px solid ;
+}
