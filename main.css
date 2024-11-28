@@ -1,0 +1,105 @@
+
+
+body{
+background-image: url(leaves.png);
+background-repeat:no-repeat;
+background-position-y: 88px;
+}
+
+.header {
+    background-color: green;
+    color: white;
+    height: 100px;
+}
+  
+
+.text-center >h3 {
+    color: green;
+}
+
+.temperatura-card {
+    background-color: #ffa418;
+    border: #d84c1b;
+}
+  
+.umidade.imagem {
+    width: 10px;
+    height: 10px;;
+}
+
+.umidade-card {
+    background-color: #bbdefa;
+    border: #3793d8;
+}
+  
+.luz-card {
+    background-color: #ffec38;
+    border: #ea9820;
+}
+  
+.control-btn {
+    width: 100%;
+}
+
+.control-btn.desligado {
+    background-color: #fe9f9e;
+    border: 1px solid ;
+}
+
+.qr-code-img {
+    max-width: 150px;
+    margin: auto;
+    display: block;
+}
+
+.qr-code-card {
+    background-color: #d9f0ff;
+    width: 350px;
+    height: 250px;
+    margin-left: 115%;
+    margin-top: 5%;
+    
+}
+
+.lampada-img{
+    width: 100px;
+    height: 100px;
+    margin-left: 70%;
+    margin-top: 5%;
+}
+
+.umidade-img{
+    width: 100px;
+    height: 100px;
+    margin-left: 70%;
+    margin-top: 5%;
+}
+
+.temperatura-img{
+    width: 100px;
+    height: 100px;
+    margin-left: 70%;
+    margin-top: 5%;
+}
+
+h5{
+    margin-left: 15%;
+    margin-right: 30%;
+    margin-bottom: 2%;
+    font-size: 200%;
+}
+    
+h2{
+    margin-right: 30%;
+    margin-bottom: -30%;
+    font-size: 350%;
+}
+
+h4{
+    color: green;
+    font-size: 200%;
+}
+
+h6{
+    font-size: 250%; 
+}
